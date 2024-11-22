@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: tobadocker12/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"  # Overrides the image tag whose default is the chart appVersion.
+  tag: "11966193497"
 
 ingress:
   enabled: false
