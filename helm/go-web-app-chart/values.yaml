@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: tobadocker12/go-web-app
   pullPolicy: IfNotPresent
-  tag: "11979983539"
+  tag: "11980026677"
 
 ingress:
   enabled: false
